@@ -1,0 +1,19 @@
+{
+  "name": "otus_qa_js",
+  "version": "1.0.0",
+  "description": "Создано в рамках курса QA JS Automation by OTUS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SergeyAbramov/Otus_QA_JS_SergeyAbramov.git"
+  },
+  "author": "Sergey Abramov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SergeyAbramov/Otus_QA_JS_SergeyAbramov/issues"
+  },
+  "homepage": "https://github.com/SergeyAbramov/Otus_QA_JS_SergeyAbramov#readme"
+}
