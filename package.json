@@ -4,7 +4,7 @@
   "description": "Создано в рамках курса QA JS Automation by OTUS",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/SergeyAbramov/Otus_QA_JS_SergeyAbramov/issues"
   },
-  "homepage": "https://github.com/SergeyAbramov/Otus_QA_JS_SergeyAbramov#readme"
+  "homepage": "https://github.com/SergeyAbramov/Otus_QA_JS_SergeyAbramov#readme",
+  "devDependencies": {
+    "jest": "^29.3.1"
+  }
 }
