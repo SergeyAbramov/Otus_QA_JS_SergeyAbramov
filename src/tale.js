@@ -16,12 +16,20 @@ colobok(1);
 
 let name1 = ['Дед Мороз!', 'Снегурочка!']
 
+const moroz = 'Дед Мороз! Дед Мороз!'
+const snegurka = 'Снегурочка! Снегурочка!'
+
+//console.log('Скоро новый год =', )
+
 function newYear(name1) {
   if (name1 === 'Дед Мороз!')
-    return name1 + ` Дед Мороз! Дед Мороз!`
+    return name1 + ` ${moroz}`
   else {
-    return name1 + ` Снегурочка! Снегурочка!`
+    return name1 + ` ${snegurka}`
   }
 }
-newYear('Снегурочка!')
+//newYear('Снегурочка!')
 
+//const firstName = 'Sergey'
+//const lastName = 'Abramov'
+//const message = `${firstName} ${lastName}`
