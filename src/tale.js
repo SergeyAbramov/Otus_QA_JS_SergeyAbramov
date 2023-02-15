@@ -7,12 +7,12 @@ function colobok(name) {
     case 0:
       return ' Я от дедушки ушёл'
     case 1:
-      return 'Я от зайчика ушёл'
+      return ' Я от зайчика ушёл'
     case 2:
-      return 'Меня съели'
+      return ' Меня съели'
   }
 }
-colobok(1);
+//colobok(1);
 
 let name1 = ['Дед Мороз!', 'Снегурочка!']
 
@@ -27,7 +27,8 @@ function newYear(name1) {
   else {
     return name1 + ` ${snegurka}`
   }
-}
+};
+
 //newYear('Снегурочка!')
 
 //const firstName = 'Sergey'

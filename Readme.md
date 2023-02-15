@@ -1,15 +1,8 @@
-# Git на кончиках пальцев
-## One two three QA JS 2022-11
+
 ### Создано в рамках курса OTUS JavaScript QA Engineer
 
-We are develop somethig=))
-This is someting new
-And this is someting wery new
-This is new code
+/* Домашнее задание основные сценарии использования Playwright >>>
 
-This is a new code again.))
+To run the test run >>> npx playwright test lambdatest_first.spec.js --project=Chrome --headed // Run the specific test in Chrome in headed mode  
+*/
 
-This is a new code
-
-This is my changes from develop
-This is second change on develop
